@@ -2,6 +2,8 @@
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
+This line is to show that this is also to help direct students in making a pull request 
+
 This is a simple project that contain some of the tools used in the class. For example,
 
 - .gitignore
